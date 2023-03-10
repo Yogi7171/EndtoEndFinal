@@ -49,6 +49,10 @@ public class ErrorValidationsTest extends BaseTest {
 	
 	
 	}
+	public void gcc()
+	{
+		
+	}
 	
 }
 
